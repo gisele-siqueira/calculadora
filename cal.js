@@ -19,3 +19,11 @@ function teto(a){
   return Math.ceil(a)
 }
 
+module.exports = {
+  soma,
+  mult,
+  subt,
+  div,
+  piso,
+  teto
+}
